@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Kazi Arafat Mia 👋</h1>
 <p align="center">
-  Senior Software Engineer (Tech Lead) • 7+ years • Dhaka, Bangladesh
+  Senior Software Engineer (Tech Lead) • 8+ years • Dhaka, Bangladesh
 </p>
 
 <p align="center">
